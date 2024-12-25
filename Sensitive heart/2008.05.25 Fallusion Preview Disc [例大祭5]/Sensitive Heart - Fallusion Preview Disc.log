@@ -1,0 +1,58 @@
+﻿Exact Audio Copy V1.0 beta 6 from 9. April 2015
+
+EAC 抓取日志文件从18. 二月 2019, 20:07
+
+未知艺术家 / 未知标题
+
+使用驱动器  ：PIONEER DVD-ROM DVD-130P   Adapter: 1  ID: 0
+
+读取模式      : 可靠Secure
+使用精确流     : 是
+清空音频缓存    : 否
+使用 C2 指示器 : 否
+
+组合读写偏移校正：             : 0
+读取 Lead-In 和 Lead-Out : 否
+用静音填充抓取中丢失偏移的采样       : 是
+去除首尾静音块               : 否
+ 在CRC 计算中使用了空样本       : 是
+已用接口                  : Win NT 及 2000 本地 Win32 接口
+
+所用输出模式： : 内部 WAV 函数
+样本格式    : 44.100 Hz; 16 Bit; 立体声
+
+
+已抓取 CD 的 TOC
+
+     音轨 |    起始    |    长度    |  起始扇区  |  结束扇区  
+    --------------------------------------------
+      1 |  0:00.00 |  4:35.55 |      0 |  20679 
+      2 |  4:35.55 |  2:29.11 |  20680 |  31865 
+      3 |  7:04.66 |  4:31.35 |  31866 |  52225 
+
+
+范围状态及错误
+
+已选择范围
+
+     文件名 d:\我的文档\桌面\幻想人形 ～ Dolls in Eastern Paradise\未知艺术家 - 未知标题.wav
+
+     峰值电平 99.9 %
+     抓取速度 8.3 X
+     范围质量 100.0 %
+     复制 CRC 56DBF8D8
+     复制成功
+
+没有错误发生
+
+状态报告结尾
+
+---- CUETools DB Plugin V2.1.6
+
+[CTDB TOCID: hADNM0grXBTyF2_7f0nm9qsIdzY-] found
+Submit result: already submitted
+Track | CTDB Status
+  1   | (1/1) Accurately ripped
+  2   | (1/1) Accurately ripped
+  3   | (1/1) Accurately ripped
+
